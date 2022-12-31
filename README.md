@@ -1,7 +1,7 @@
 # Multi-Threading with Map-Reduce
 
 App designed to find perfect powers and count the individual appearances within a set of files,
-while using Multithreading in C and the Map-Reduce model.
+while using Multithreading in C++ and the Map-Reduce model.
 
 # Implementation
 
