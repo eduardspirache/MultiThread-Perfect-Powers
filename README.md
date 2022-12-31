@@ -10,6 +10,6 @@ I used the Map-Reduce model to parallelize the processing of input files. I dyna
 Kindly check the task file in order to understand the assignment better.
 
 # How to Run
-Usage: ./tema1 <mappers_count> <reducers_count> <in_file>
+Usage: ./tema1 <mappers_count> <reducers_count> <in_file> <br>
 Example: ./tema1 3 5 test0/test.txt
 
